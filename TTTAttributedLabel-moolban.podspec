@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'TTTAttributedLabel'
+  s.name         = 'TTTAttributedLabel-moolban'
   s.version      = '2.0.0.2'
   s.authors      = { 'Mattt Thompson' => 'm@mattt.me' }
   s.homepage     = 'https://github.com/rws08/TTTAttributedLabel-moolban'
